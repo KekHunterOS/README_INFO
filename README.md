@@ -5,19 +5,13 @@
 * @JochenSplifficus (Telegram)
 * @AkiraSuper (Telegram)                    | For new logo.
 
-### Devices ported by them
+### Projects that goes under the Kek* organization
 
-#### JochenSplifficus 
-* Redmi Note 5 Pro / Whyred
-* Axon 7
-
-#### hilledkinged
-* Poco F1 / Beryllium
-* Oneplus 7t pro / hotdog (WIP)
-
-#### S133py 
-* J7 2017 Pro / j7y17lte
-* Lavender / Redmi note 7
+Name            | Description
+---------------:|:-------------
+KekHunterOS     | A source code of KekHunter
+KekRepo         | A apt repository for nethunter
+KekHunter       | A android custom rom
 
 ### Telegram group for support/chat/offtopic
 * https://t.me/KekHunter
