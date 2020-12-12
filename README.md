@@ -15,4 +15,4 @@ KekHunter-420   | A android custom rom
 
 ### Telegram group for support/chat/offtopic
 * https://t.me/KekHunter
-* https://t.me/kekhunter_offtopic
+* https://t.me/t420_offtopic
