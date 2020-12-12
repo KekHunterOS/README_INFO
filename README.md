@@ -11,7 +11,7 @@ Name            | Description
 ---------------:|:-------------
 KekHunterOS     | A source code of KekHunter
 KekRepo         | A apt repository for nethunter
-KekHunter       | A android custom rom
+KekHunter-420   | A android custom rom
 
 ### Telegram group for support/chat/offtopic
 * https://t.me/KekHunter
